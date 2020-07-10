@@ -1,0 +1,12 @@
+config 配置sql数据库
+
+models 关系模型创建（引用即创建）
+
+db.js 引用sequelize作为orm层，封装关系模型创建方法（添加表默认项，钩子函数等）
+
+init.js 启动项，mysql自动建表
+
+model.js 检索models文件夹，批量创建关系模型（实际上是中间层）
+
+
+

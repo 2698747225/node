@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}\\mvc\\app.js"
+      "program": "${workspaceFolder}\\node-sql\\init.js"
     }
   ]
 }
